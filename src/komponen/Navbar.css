@@ -1,0 +1,14 @@
+nav {
+    background-color: grey;
+    padding: 5px;
+}
+
+h2 {
+    display: inline;
+    margin-right: 30px;
+}
+
+ul li {
+    display: inline;
+    margin-right: 15px;
+}

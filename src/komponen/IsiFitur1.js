@@ -1,14 +1,13 @@
 import { Component } from "react";
 
-class Home extends Component {
+class IsiFiturSatu extends Component {
     render() {
         return(
             <div>
-                
-                <p>Nama Saya Riki Widiantoro</p>
+                <h1>ini adalah Fitur 1</h1>
             </div>
         )
     }
 }
 
-export default Home;
+export default IsiFiturSatu;
