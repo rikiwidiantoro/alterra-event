@@ -6,16 +6,16 @@ class Fiturr extends Component {
     render() {
         return(
             <div>
-                ReactDOM.render(
-                    <React.StrictMode>
-                        <IsiFitur1 />
-                    </React.StrictMode>
-                );
 
             </div>
         )
     }
 }
 
+ReactDOM.render(
+    <React.StrictMode>
+        <IsiFitur1 />
+    </React.StrictMode>
+);
 
 export default Fiturr;
