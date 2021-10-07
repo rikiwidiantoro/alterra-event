@@ -1,4 +1,5 @@
 import React from "react";
+import Home from "./Home";
 import './Navbar.css'
 
 const Navbar = () => {
@@ -7,7 +8,7 @@ const Navbar = () => {
             <nav>
                 <ul>
                     <h2>Riki Widiantoro</h2>
-                    <li><a href="IsiHome">Home</a></li>
+                    <li><a href={Home}>Home</a></li>
                     <li><a href='Fiturr'>Fitur 1</a></li>
                 </ul>
             </nav>

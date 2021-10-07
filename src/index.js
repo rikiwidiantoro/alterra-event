@@ -4,14 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import IsiHome from './komponen/IsiHome';
-import IsiFiturr from './komponen/IsiFitur1';
+import Home from './komponen/Home';
+// import IsiFiturr from './komponen/IsiFitur1';
 
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
-    <IsiHome />
-    <IsiFiturr/>
+    <Home />
+    {/* <IsiFiturr/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

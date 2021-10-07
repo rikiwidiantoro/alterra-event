@@ -1,7 +1,7 @@
 import { Component } from "react";
 import Navbar from "./Navbar";
 
-class IsiHome extends Component {
+class Home extends Component {
     render() {
         return(
             <div>
@@ -12,4 +12,4 @@ class IsiHome extends Component {
     }
 }
 
-export default IsiHome;
+export default Home;
