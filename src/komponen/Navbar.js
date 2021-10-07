@@ -1,6 +1,7 @@
 import React from "react";
 import Home from "./Home";
-import './Navbar.css'
+import './Navbar.css';
+import {Fiturr} from './Fiturr'
 
 const Navbar = () => {
     return(
@@ -9,7 +10,7 @@ const Navbar = () => {
                 <ul>
                     <h2>Riki Widiantoro</h2>
                     <li><a href={Home}>Home</a></li>
-                    <li><a href='Fiturr'>Fitur 1</a></li>
+                    <li><a href={Fiturr}>Fitur 1</a></li>
                 </ul>
             </nav>
         </div>
