@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import IsiFitur1 from './IsiFitur1';
 
 class Fiturr extends Component {
     render() {
