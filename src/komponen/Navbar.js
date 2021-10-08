@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./Home";
 import './Navbar.css';
-import {Fiturr} from './Fiturr'
+import Fiturr from './Fiturr'
 
 const Navbar = () => {
     return(

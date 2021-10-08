@@ -12,10 +12,10 @@ class Fiturr extends Component {
     }
 }
 
-ReactDOM.render(
-    <React.StrictMode>
-        <IsiFitur1 />
-    </React.StrictMode>
-);
+// ReactDOM.render(
+//     <React.StrictMode>
+//         <Fiturr />
+//     </React.StrictMode>
+// );
 
 export default Fiturr;
