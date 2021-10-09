@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return(
             <div>
-                <p>ini adalah footer</p>
+                <p>&copy; Riki Widiantoro | ini adalah footer</p>
             </div>
         )
     }
