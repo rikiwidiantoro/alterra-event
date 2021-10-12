@@ -18,5 +18,11 @@ button {
     margin-top: -40px;
     margin-right: 20px;
     font-size: 18px;
-    background-color: none;
+    background-color: grey;
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 3px 10px;
+}
+button:hover {
+    background-color: rgb(172, 169, 169);
 }
