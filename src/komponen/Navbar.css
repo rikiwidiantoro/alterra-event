@@ -12,3 +12,8 @@ ul li {
     display: inline;
     margin-right: 15px;
 }
+
+button {
+    float: right;
+    margin-top: -40px;
+}

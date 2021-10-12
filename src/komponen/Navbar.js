@@ -12,6 +12,7 @@ const Navbar = () => {
                     <li><a href={Home}>Home</a></li>
                     <li><a href='Fiturr'>Fitur 1</a></li>
                 </ul>
+                <button>Keluar</button>
             </nav>
         </div>
     )
