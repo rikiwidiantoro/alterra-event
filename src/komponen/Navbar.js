@@ -6,7 +6,6 @@ import Fiturr from './Fiturr'
 const Navbar = () => {
     return(
         <div>
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
             <nav>
                 <ul>
                     <h2>Riki Widiantoro</h2>
@@ -15,7 +14,6 @@ const Navbar = () => {
                 </ul>
                 <button id='btn'>Keluar</button>
             </nav>
-            <script src='script.js'></script>
         </div>
     )
 }
