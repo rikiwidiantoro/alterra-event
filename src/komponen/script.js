@@ -4,11 +4,9 @@ class Script extends Component {
     render() {
         return(
             <div>
-                
-                    document.getElementById('#btn').click(function() {
-                        alert('Anda berhasil keluar!')
-                    })
-                
+                document.getElementById('#btn').click(function() {
+                    alert('Anda berhasil keluar!')
+                })
             </div>
         )
     }

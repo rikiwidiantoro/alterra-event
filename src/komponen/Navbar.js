@@ -7,7 +7,6 @@ import Script from './script'
 const Navbar = () => {
     return(
         <div>
-            <Script />
             <nav>
                 <ul>
                     <h2>Riki Widiantoro</h2>
@@ -16,6 +15,7 @@ const Navbar = () => {
                 </ul>
                 <button id='btn'>Keluar</button>
             </nav>
+            <Script />
         </div>
     )
 }
