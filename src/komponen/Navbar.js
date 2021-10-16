@@ -1,8 +1,6 @@
 import React from "react";
 import Home from "./Home";
 import './Navbar.css';
-import Fiturr from './Fiturr'
-import Script from './script'
 
 const Navbar = () => {
     return(
@@ -15,7 +13,6 @@ const Navbar = () => {
                 </ul>
                 <button id='btn'>Keluar</button>
             </nav>
-            <Script />
         </div>
     )
 }
